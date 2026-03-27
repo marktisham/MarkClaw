@@ -1,5 +1,7 @@
 # Twitter Stock News — Skill Setup
 
+[![YouTube](https://img.shields.io/badge/Watch-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtu.be/q_G_Sdoeodc)
+
 > Connects your OpenClaw instance to your X/Twitter home timeline so the agent can fetch and summarize posts from accounts you follow.
 
 **Prerequisites:** A running OpenClaw instance on GCP. If you haven't set that up yet, start with [Deploy OpenClaw on a Private GCP Compute Engine Instance](vm_setup.md).

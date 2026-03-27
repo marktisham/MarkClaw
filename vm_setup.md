@@ -1,5 +1,7 @@
 # Deploy OpenClaw on a Private GCP Compute Engine Instance
 
+[![YouTube](https://img.shields.io/badge/Watch-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtu.be/0sq7zmLj46g)
+
 > A step-by-step guide to self-hosting the OpenClaw AI gateway on a private GCP VM, using Google Gemini as the model backend.
 
 ## Prerequisites
