@@ -1,4 +1,4 @@
-<img src="markclaw.png" width="50%" alt="MarkClaw" />
+<img src="MarkClaw.png" width="50%" alt="MarkClaw" />
 
 # MarkClaw
 
