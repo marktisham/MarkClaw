@@ -11,7 +11,7 @@ tools:
     description: Fetches and summarizes stock market sentiment from your X/Twitter home timeline.
     parameters: {}
     code: |
-      print(default_api.exec(command="python3 /home/markisham/.openclaw/skills/twitter_stock_news/twitter_feed.py"))
+      print(default_api.exec(command="python3 ~/.openclaw/skills/twitter_stock_news/twitter_feed.py"))
 ---
 
 # Twitter Stock News Skill
